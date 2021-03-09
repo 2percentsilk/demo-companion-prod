@@ -1,4 +1,4 @@
-# Demo Companion - This is a Production change!
+# Demo Companion - This is a Production change part 2!
 
 Demo Companion seeks to speed up and simplify the process of inserting code into an app while giving a talk or demo. 
 
